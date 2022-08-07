@@ -1,4 +1,4 @@
-### Hi there<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20" height="20">,I'm <b>Aakash<b>
+### Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="20" height="20">, I'm <b>Aakash<b>
 
 
 <!--
